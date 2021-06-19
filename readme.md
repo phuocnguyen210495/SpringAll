@@ -1,10 +1,10 @@
 ## Hướng dẫn Spring
-该仓库为个人博客[https://mrbird.cc](https://mrbird.cc)中Spring系列源码，包含Spring Boot、Spring Boot & Shiro、Spring Cloud和Spring Boot & Spring Security，如果该系列教程对您有帮助的话，还请点个star给予精神支持！🐤
+Kho này là một blog cá nhân [https://mrbird.cc](https://mrbird.cc) Mã nguồn dòng Spring, bao gồm Spring Boot、Spring Boot & Shiro、Spring Cloud, Spring Boot & Spring Security，Mã nguồn dòng Spring, bao gồm Spring Boot！🐤
 
-### Spring Boot教程 
-1. [开启Spring Boot](https://mrbird.cc/%E5%BC%80%E5%90%AFSpring-Boot.html)
-2. [Spring Boot基础配置](https://mrbird.cc/Spring-Boot%20basic%20config.html)
-3. [Spring Boot中使用MyBatis](https://mrbird.cc/Spring-Boot%20Mybatis.html)
+### Hướng dẫn Spring Boot 
+1. [Bật Spring Boot](https://mrbird.cc/%E5%BC%80%E5%90%AFSpring-Boot.html)
+2. [Cấu hình cơ bản Spring Boot](https://mrbird.cc/Spring-Boot%20basic%20config.html)
+3. [Sử dụng MyBatis trong Spring Boot](https://mrbird.cc/Spring-Boot%20Mybatis.html)
 4. [Spring Boot中使用JdbcTemplate](https://mrbird.cc/Spring-Boot%20JdbcTemplate.html)
 5. [Spring Boot MyBatis配置Druid多数据源](https://mrbird.cc/Spring-Boot-MyBatis%20Druid.html)
 6. [Spring Boot JdbcTemplate配置Druid多数据源](https://mrbird.cc/Spring-Boot-JdbcTemplate%20Druid.html)
